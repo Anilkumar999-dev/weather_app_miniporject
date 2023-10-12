@@ -1,0 +1,40 @@
+.sidebar {
+    width: 250px;
+    background-color: #333;
+    color: #fff;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin-bottom: 30px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+.sidebar a:hover {
+    color: black;
+    background-color: white;
+    padding: 3%;
+    border-radius: 15px 0px 15px 0px;
+    /* Change text color on hover */
+}
+
+.sidebar a.active {
+    color: black;
+    background-color: white;
+    padding: 3%;
+    border-radius: 15px 0px 15px 0px;
+}

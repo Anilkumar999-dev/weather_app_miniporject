@@ -1,0 +1,94 @@
+{
+    "cities": [
+        {
+            "name": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "coordinates": {
+                "lat": 22.577575242045402,
+                "lng": 88.36726035787015
+            },
+            "air_quality": {
+                "index": 84,
+                "quality": "Moderate"
+            },
+            "weather": {
+                "temperature": 32,
+                "condition": "Sunny",
+                "humidity": 65
+            }
+        },
+        {
+            "name": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "coordinates": {
+                "lat": 28.6139,
+                "lng": 77.2090
+            },
+            "air_quality": {
+                "index": 160,
+                "quality": "Unhealthy"
+            },
+            "weather": {
+                "temperature": 30,
+                "condition": "Partly Cloudy",
+                "humidity": 70
+            }
+        },
+        {
+            "name": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "coordinates": {
+                "lat": 12.9716,
+                "lng": 77.5946
+            },
+            "air_quality": {
+                "index": 45,
+                "quality": "Good"
+            },
+            "weather": {
+                "temperature": 28,
+                "condition": "Rainy",
+                "humidity": 80
+            }
+        },
+        {
+            "name": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "coordinates": {
+                "lat": 13.0827,
+                "lng": 80.2707
+            },
+            "air_quality": {
+                "index": 72,
+                "quality": "Moderate"
+            },
+            "weather": {
+                "temperature": 34,
+                "condition": "Clear",
+                "humidity": 60
+            }
+        },
+        {
+            "name": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "coordinates": {
+                "lat": 22.5726,
+                "lng": 88.3639
+            },
+            "air_quality": {
+                "index": 95,
+                "quality": "Moderate"
+            },
+            "weather": {
+                "temperature": 29,
+                "condition": "Partly Cloudy",
+                "humidity": 75
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.details-card {
+    background-color: lavender;
+    margin-left: 5%;
+    width: 50%;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.arrangement {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.wheather-details-container {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.hr {
+    margin-top: -2%;
+}
